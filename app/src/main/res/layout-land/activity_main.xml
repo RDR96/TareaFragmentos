@@ -19,8 +19,8 @@
         android:layout_weight="2"
         android:layout_height="match_parent"
         android:name="com.example.rafaj.fragmentapp.FragmentViewer"
-        android:id="@+id/viewer">
-
+        android:id="@+id/viewer"
+        >
     </fragment>
 
 </LinearLayout>
